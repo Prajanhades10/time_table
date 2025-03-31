@@ -91,13 +91,13 @@ Execute the program using runserver command.
 </tr>
 <tr>
 <td align="center">2.</td>
-<td align="center">19EN612</td>
-<td>German Basic(GER)</td>
+<td align="center">19AI304</td>
+<td>German FUNDAMENTAL OF C PROGRAMMING</td>
 </tr>
 <tr>
 <td align="center">3.</td>
-<td align="center">19PH206</td>
-<td>Physics for Information Technology(PHY)</td>
+<td align="center">19HS801</td>
+<td>HUMAN VALUES AND PROFESSIONAL ETHICS</td>
 </tr>
 <tr>
 <td align="center">4.</td>
@@ -106,13 +106,13 @@ Execute the program using runserver command.
 </tr>
 <tr>
 <td align="center">5.</td>
-<td align="center">19MA201</td>
-<td>Calculus and Matrix Algebra(MAT)</td>
+<td align="center">19AI302</td>
+<td>ENGINEERING DESIGN AND MODELLING</td>
 </tr>
 <tr>
 <td align="center">6.</td>
-<td align="center">19EY701</td>
-<td>Soft Skills(SS)</td>
+<td align="center">19MA211</td>
+<td>STATISTICS AND NUMERICAL METHODS</td>
 </tr>
 </table>
 </body>
@@ -122,7 +122,8 @@ Execute the program using runserver command.
 
 # OUTPUT
 
-![Screenshot 2025-03-31 200948](https://github.com/user-attachments/assets/6e026602-6023-4bdb-86c0-e183629666b7)
+![Screenshot 2025-03-31 202551](https://github.com/user-attachments/assets/9e1e0b9f-ca55-4f1d-83a0-9bed58b9d975)
+
 
 
 
